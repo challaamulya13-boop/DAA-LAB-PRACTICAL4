@@ -14,6 +14,7 @@ cout<<"Enter a number:";
 cin >> n;
 
 cout<< "Factorial of " << n<< " is " << factorial(n);
+  cout<<"\nrecursive method";
 
 return 0;
 }
