@@ -16,6 +16,7 @@ for(int i = 1;i<= n;i++){
 factorial = factorial * i;
 }
  cout<< "Factorial of "<<n <<"is:"<<factorial;
+  cout<<"\nIterative method";
 }
 return 0;
 }
